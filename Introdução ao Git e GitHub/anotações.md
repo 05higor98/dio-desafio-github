@@ -1,6 +1,6 @@
 # Introdução ao Git e ao GitHub
 
-## Gerando cave SSH
+## Gerando chave SSH
 
 - ssh-keygen -t ed25519 -C "email"
 - Criar uma senha
